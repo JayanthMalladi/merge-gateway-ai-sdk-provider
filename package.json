@@ -68,12 +68,12 @@
     "@ai-sdk/provider": ">=2.0.0"
   },
   "dependencies": {
-    "@ai-sdk/provider-utils": "^4.0.23"
+    "@ai-sdk/provider-utils": "^5.0.0"
   },
   "devDependencies": {
-    "@ai-sdk/provider": "3.0.8",
-    "@ai-sdk/provider-utils": "4.0.23",
-    "ai": "6.0.157",
+    "@ai-sdk/provider": "^4.0.0",
+    "@ai-sdk/provider-utils": "^5.0.0",
+    "ai": "^7.0.0",
     "typescript": "~5.7.0",
     "vitest": "3.0.0",
     "tsup": "8.5.1",
